@@ -1,0 +1,13 @@
+1.For create a new repo
+
+touch README.md 
+git init
+git add README.md 
+git commit -m "first commit" gidHAA
+git remote add origin https://github.com/kibertron/gidHAA.git
+git push -u origin master
+
+2. Push an existing repo
+
+git remote add origin https://github.com/kibertron/gidHAA.git
+git push -u origin master

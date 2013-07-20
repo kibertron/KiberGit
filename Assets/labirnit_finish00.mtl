@@ -1,0 +1,582 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 09.07.2013 11:58:18
+
+newmtl 01___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1725 0.1333 0.9725
+	Kd 0.1725 0.1333 0.9725
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\????????\????????\maps\stone_006.jpg
+	map_Kd D:\????????\????????\maps\stone_006.jpg
+
+newmtl wire_214228153
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8392 0.8941 0.6000
+	Kd 0.8392 0.8941 0.6000
+	Ks 0.3500 0.3500 0.3500
+
+newmtl OBJ_bin_D_Mat
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\????????\3d_models\??????????\bin\OBJ_bin_D.tga
+	map_Kd D:\????????\3d_models\??????????\bin\OBJ_bin_D.tga
+
+newmtl FIT_Toilet_Toilet_MAT
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\????????\3d_models\??????????\toilet\FIT_Toilet_Toilet_D.tga
+	map_Kd D:\????????\3d_models\??????????\toilet\FIT_Toilet_Toilet_D.tga
+
+newmtl Bench
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl a1296994_dds
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6980 0.6980 0.6980
+	Kd 0.6980 0.6980 0.6980
+	Ks 0.1000 0.1000 0.1000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Standard_8
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.6000 0.8000
+	Kd 0.5000 0.6000 0.8000
+	Ks 0.1000 0.1000 0.1000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Arch41_064_mat_1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__665
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__663
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__666
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__664
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__30
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__29
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__985
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__987
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__983
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__986
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__984
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__982
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Default
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7000 0.7000 0.7000
+	Kd 0.7000 0.7000 0.7000
+	Ks 0.7070 0.7070 0.7070
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 1LIGHT1
+	Ns 52.0000
+	Ni 1.5000
+	d 0.9000
+	Tr 0.1000
+	Tf 0.9000 0.9000 0.9000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.7300 0.7300 0.7300
+	Ke 1.0000 1.0000 1.0000
+
+newmtl BRASS
+	Ns 75.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3843 0.2000 0.0431
+	Ks 0.7700 0.7700 0.7700
+	Ke 0.0000 0.0000 0.0000
+
+newmtl WoodenBox1
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4800 0.4800 0.4800
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\????????\3d_models\??????_?????\Wooden Box\Texture\WoodenBoxD1.tga
+	map_Kd D:\????????\3d_models\??????_?????\Wooden Box\Texture\WoodenBoxD1.tga
+	map_bump D:\????????\3d_models\??????_?????\Wooden Box\Texture\WoodenBoxN1.tga
+	bump D:\????????\3d_models\??????_?????\Wooden Box\Texture\WoodenBoxN1.tga
+
+newmtl WoodenBox3
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4800 0.4800 0.4800
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\????????\3d_models\??????_?????\Wooden Box\Texture\WoodenBoxD3.tga
+	map_Kd D:\????????\3d_models\??????_?????\Wooden Box\Texture\WoodenBoxD3.tga
+	map_bump D:\????????\3d_models\??????_?????\Wooden Box\Texture\WoodenBoxN3.tga
+	bump D:\????????\3d_models\??????_?????\Wooden Box\Texture\WoodenBoxN3.tga
+
+newmtl WoodenBox6
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4800 0.4800 0.4800
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\????????\3d_models\??????_?????\Wooden Box\Texture\WoodenBoxD6.tga
+	map_Kd D:\????????\3d_models\??????_?????\Wooden Box\Texture\WoodenBoxD6.tga
+	map_bump D:\????????\3d_models\??????_?????\Wooden Box\Texture\WoodenBoxN6.tga
+	bump D:\????????\3d_models\??????_?????\Wooden Box\Texture\WoodenBoxN6.tga
+
+newmtl WoodenBox5
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4800 0.4800 0.4800
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\????????\3d_models\??????_?????\Wooden Box\Texture\WoodenBoxD5.tga
+	map_Kd D:\????????\3d_models\??????_?????\Wooden Box\Texture\WoodenBoxD5.tga
+	map_bump D:\????????\3d_models\??????_?????\Wooden Box\Texture\WoodenBoxN5.tga
+	bump D:\????????\3d_models\??????_?????\Wooden Box\Texture\WoodenBoxN5.tga
+
+newmtl WoodenBox4
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4800 0.4800 0.4800
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\????????\3d_models\??????_?????\Wooden Box\Texture\WoodenBoxD4.tga
+	map_Kd D:\????????\3d_models\??????_?????\Wooden Box\Texture\WoodenBoxD4.tga
+	map_bump D:\????????\3d_models\??????_?????\Wooden Box\Texture\WoodenBoxN4.tga
+	bump D:\????????\3d_models\??????_?????\Wooden Box\Texture\WoodenBoxN4.tga
+
+newmtl WoodenBox2
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4800 0.4800 0.4800
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\????????\3d_models\??????_?????\Wooden Box\Texture\WoodenBoxD2.tga
+	map_Kd D:\????????\3d_models\??????_?????\Wooden Box\Texture\WoodenBoxD2.tga
+	map_bump D:\????????\3d_models\??????_?????\Wooden Box\Texture\WoodenBoxN2.tga
+	bump D:\????????\3d_models\??????_?????\Wooden Box\Texture\WoodenBoxN2.tga
+
+newmtl 07___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1373 0.3176 0.3647
+	Kd 0.1373 0.3176 0.3647
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl bunk_bed
+	Ns 96.0784
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6400 0.6400 0.6400
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\????????\3d_models\??????+????\bunk_bed\bunk_bed_D.dds
+	map_Kd D:\????????\3d_models\??????+????\bunk_bed\bunk_bed_D.dds
+
+newmtl def_1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl tumba
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl lezanka
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl bego
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl velo
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl stul2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl shui
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0118 0.0667 0.1765
+	Kd 0.1020 0.3569 0.4196
+	Ks 0.0500 0.0500 0.0500
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__2356
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0314 0.0627 0.1098
+	Kd 0.7020 0.7922 0.8196
+	Ks 0.0500 0.0500 0.0500
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__2413
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Amentet\Documents\bloodKey\maps\mr-a-24-0001.jpg
+	map_Kd C:\Users\Amentet\Documents\bloodKey\maps\mr-a-24-0001.jpg
+
+newmtl Material__2425
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Amentet\Documents\bloodKey\maps\glaze_19_diffuse.jpg
+	map_Kd C:\Users\Amentet\Documents\bloodKey\maps\glaze_19_diffuse.jpg
+
+newmtl Material__2492
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Amentet\Documents\bloodKey\maps\glaze_20_diffuse.jpg
+	map_Kd C:\Users\Amentet\Documents\bloodKey\maps\glaze_20_diffuse.jpg
+
+newmtl wire_135110008
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.5294 0.4314 0.0314
+	Kd 0.5294 0.4314 0.0314
+	Ks 0.3500 0.3500 0.3500
+
+newmtl wire_177088027
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.6941 0.3451 0.1059
+	Kd 0.6941 0.3451 0.1059
+	Ks 0.3500 0.3500 0.3500
+
+newmtl wire_177028149
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.6941 0.1098 0.5843
+	Kd 0.6941 0.1098 0.5843
+	Ks 0.3500 0.3500 0.3500
+
+newmtl wire_225088199
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8824 0.3451 0.7804
+	Kd 0.8824 0.3451 0.7804
+	Ks 0.3500 0.3500 0.3500
